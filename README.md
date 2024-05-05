@@ -20,7 +20,7 @@ This project aims to clone the iPhone 15 pro [website](https://www.apple.com/au/
 
 <br>
 
-This project is a basic static website created using HTML, CSS, and JavaScript. For package management and development server, we use npm as the Node Package Manager along with Vite. The Continuous Integration (CI) process involves automatically building artifacts from the main branch into the build branch whenever changes are pushed. This is achieved through GitHub Actions. Additionally, we have configured a webhook to send a POST request to a specified URL (in this case, Hostinger). As a result, any updates pushed to the main branch will trigger a build and update the production site accordingly.
+This project is a basic static website created using HTML, CSS, and JavaScript. For package management and development server, we use npm as the Node Package Manager along with Vite. The Continuous Integration (CI) process involves automatically building artifacts from the main branch into the build branch whenever changes are pushed. This is achieved through GitHub Actions. Additionally, we have configured a webhook to send a POST request to a specified URL (in this case, Hostinger). As a result, any updates pushed to the main branch will trigger a build and update the production site accordingly. 
 
 <br>
 
